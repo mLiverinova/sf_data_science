@@ -6,14 +6,14 @@ From the SkillFactory Data Science course
 * [Project 0 - "Game: guess the number"]()
 
 ## Сontents
-[1. Projects description](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Projectdescription)\
-[2. What case is solving]()\
-[3. Data information]()\
-[4. Stages of the project]()\
-[5. Result]()\
-[6. Conclusions]()
+[1. Projects description](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Project-description)\
+[2. What case is solving](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#What-case-is-solving)\
+[3. Data information](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Data-information)\
+[4. Stages of the project](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Stages-of-the-project)\
+[5. Result](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Results)\
+[6. Conclusions](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Conclusions)
 
-### Project description
+### Project_description
 The program guesses an integer from 1 to 100 in less than a 20 attempts on average out of 1000 times. The guessed number is guessed by the computer.
 
 :arrow_up:[к оглавлению](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Contents)
@@ -34,6 +34,6 @@ Functions that satisfy the conditions of the case are obtained.
 ### Conclusions
 The problem uses the method of dividing the interval in half. This method allows you to solve the problem with an average number of guesses 5 (out of 1000 repetitions)
 
-
+:arrow_up:[к оглавлению](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Contents)
 
 
