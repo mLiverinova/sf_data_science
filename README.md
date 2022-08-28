@@ -3,7 +3,7 @@ From the SkillFactory Data Science course
 
 ## Projects
 
-* [Project 0 - "Game: guess the number"]()
+* [Project 0 - "Game: guess the number"](https://github.com/mLiverinova/sf_data_science/blob/main/Project%200)
 
 ## Сontents
 [1. Projects description](https://github.com/mLiverinova/sf_data_science/tree/main/README.md#Project-description)\
