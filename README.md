@@ -6,17 +6,17 @@ From the SkillFactory Data Science course
 * [Project 0 - "Game: guess the number"](https://github.com/mLiverinova/sf_data_science/blob/main/Project%200)
 
 ## Сontents
-[1. Projects description](https://github.com/mLiverinova/sf_data_science/tree/mainProject%200/README.md#Project-description)\
-[2. What case is solving](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#What-case-is-solving)\
-[3. Data information](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#Data-information)\
-[4. Stages of the project](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#Stages-of-the-project)\
-[5. Result](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#Results)\
-[6. Conclusions](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#Conclusions)
+[1. Projects description](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#project_description)\
+[2. What case is solving](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#what-case-is-solving)\
+[3. Data information](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#data-information)\
+[4. Stages of the project](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#stages-of-the-project)\
+[5. Result](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#result)\
+[6. Conclusions](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#conclusions)
 
 ### Project_description
 The program guesses an integer from 1 to 100 in less than a 20 attempts on average out of 1000 times. The guessed number is guessed by the computer.
 
-:arrow_up:[к оглавлению](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#Contents)
+:arrow_up:[к оглавлению](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 ### What case is solving
 Need to write a program that guesses a number in less than 20 attempts out of 1000 repetitions on average
@@ -34,6 +34,6 @@ Functions that satisfy the conditions of the case are obtained.
 ### Conclusions
 The problem uses the method of dividing the interval in half. This method allows you to solve the problem with an average number of guesses 5 (out of 1000 repetitions)
 
-:arrow_up:[к оглавлению](https://github.com/mLiverinova/sf_data_science/tree/main/Project%200/README.md#Contents)
+:arrow_up:[к оглавлению](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 
