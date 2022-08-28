@@ -18,7 +18,7 @@ From the SkillFactory Data Science course
 ### Project_description
 The program guesses an integer from 1 to 100 in less than a 20 attempts on average out of 1000 times. The guessed number is guessed by the computer.
 
-:yellow_circle:[к оглавлению](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
+:yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 ### What case is solving
 Need to write a program that guesses a number in less than 20 attempts out of 1000 repetitions on average
@@ -36,6 +36,6 @@ Functions that satisfy the conditions of the case are obtained.
 ### Conclusions
 The problem uses the method of dividing the interval in half. This method allows you to solve the problem with an average number of guesses 5 (out of 1000 repetitions)
 
-:yellow_circle:[к оглавлению](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
+:yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 
