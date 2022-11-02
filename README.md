@@ -17,9 +17,9 @@ From the SkillFactory Data Science course
 -    [6 Conclusions](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#conclusions)
 
 [__Project 1__](https://github.com/mLiverinova/sf_data_science/blob/main/Project%201.ipynb)
--    [1 Projects description](https://github.com/mLiverinova/sf_data_science#project_description-1)
+-    [1 Projects description](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#project_description)
 -    [2 What case is solving](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#what-case-is-solving)
--    [3 Data information](https://github.com/mLiverinova/sf_data_science#project_description-1)
+-    [3 Data information](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#data-information)
 -    [4 Stages of the project](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#stages-of-the-project)
 -    [5 Result](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#result)
 -    [6 Conclusions](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#conclusions)
