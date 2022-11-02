@@ -96,3 +96,5 @@ The influence of age, estimated salary, gender on the outflow of customers was a
 :yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 
+
+
