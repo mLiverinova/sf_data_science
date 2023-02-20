@@ -5,7 +5,7 @@ From the SkillFactory Data Science course
 
 * [Project 0 - "Game: guess the number"](https://github.com/mLiverinova/sf_data_science/blob/main/Project%200)
 * [Project 1 - "Datas Visualization"](https://github.com/mLiverinova/sf_data_science/blob/main/Project%201.ipynb)
-* [Project 2 - "HH Project"]()
+* [Project 2 - "HH Project"](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#project_2)
 
 ## Сontents
 
