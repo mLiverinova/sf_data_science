@@ -5,6 +5,7 @@ From the SkillFactory Data Science course
 
 * [Project 0 - "Game: guess the number"](https://github.com/mLiverinova/sf_data_science/blob/main/Project%200)
 * [Project 1 - "Datas Visualization"](https://github.com/mLiverinova/sf_data_science/blob/main/Project%201.ipynb)
+* [Project 2 - "HH Project"]()
 
 ## Сontents
 
@@ -23,6 +24,13 @@ From the SkillFactory Data Science course
 -    [4 Stages of the project](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#stages-of-the-project-1)
 -    [5 Result](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#result-1)
 -    [6 Conclusions](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#conclusions-1)
+
+[__Project 2__]()
+-    [1 Projects description]()
+-    [2 What case is solving]()
+-    [3 Data information]()
+-    [4 Stages of the project]()
+-    [5 Result]()
 
 ### Project_0
 
@@ -95,6 +103,28 @@ The influence of age, estimated salary, gender on the outflow of customers was a
 
 :yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
+### Project_2
 
+#### Project_description
+This project contains the preparation, processing and analysis of the HeadHunter database
+
+:yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
+
+#### What case is solving
+It is necessary to explore the data structure, process the data and transform it into a form accessible for analysis. You also need to analyze applicants on various grounds (age, work experience, city, and so on)
+
+#### Data information 
+The source database contains the following columns: "Пол, возраст", "ЗП", "Ищет работу на должность:", "Город, переезд, командировки", "Занятость", "График", "Опыт работы", "Последнее/нынешнее место работы", "Последняя/нынешняя должность", "Образование и ВУЗ", "Обновление резюме", "Авто".
+
+#### Stages of the project
+1. Data transformation: extracting key information about education, separating the "Пол, возраст" column into "Пол" and "Возваст", bringing work experience to a single unit of measure (month), determining readiness for business trips and relocations in a boolean format, categorizing the city of residence, creating columns , signaling the applicant's readiness to work on various schedules, the conversion of the requested salary to rubles.
+2. Data dependency analysis.
+3. Emission cleaning, pass processing.
+
+#### Result
+The result is a processed table suitable for data analysis, as well as dependency graphs and their analysis.
+
+
+:yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 
