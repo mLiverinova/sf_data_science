@@ -25,7 +25,7 @@ From the SkillFactory Data Science course
 -    [5 Result](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#result-1)
 -    [6 Conclusions](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#conclusions-1)
 
-[__Project 2__](https://github.com/mLiverinova/sf_data_science/edit/main/README.md#project_2)
+[__Project 2__](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#project_2)
 
 link to .ipynb project HERE()
 
@@ -107,6 +107,8 @@ The influence of age, estimated salary, gender on the outflow of customers was a
 :yellow_circle:[To contents](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#сontents)
 
 ### Project_2
+
+link to .ipynb project HERE()
 
 #### Project_description
 This project contains the preparation, processing and analysis of the HeadHunter database
