@@ -25,12 +25,15 @@ From the SkillFactory Data Science course
 -    [5 Result](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#result-1)
 -    [6 Conclusions](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#conclusions-1)
 
-[__Project 2__]()
--    [1 Projects description]()
--    [2 What case is solving]()
--    [3 Data information]()
--    [4 Stages of the project]()
--    [5 Result]()
+[__Project 2__](https://github.com/mLiverinova/sf_data_science/edit/main/README.md#project_2)
+
+link to .ipynb project HERE()
+
+-    [1 Projects description](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#project_description-2)
+-    [2 What case is solving](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#what-case-is-solving-2)
+-    [3 Data information](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#data-information-2)
+-    [4 Stages of the project](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#stages-of-the-project-2)
+-    [5 Result](https://github.com/mLiverinova/sf_data_science/blob/main/README.md#result-2)
 
 ### Project_0
 
